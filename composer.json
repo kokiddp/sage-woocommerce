@@ -1,5 +1,5 @@
 {
-    "name": "roots/sage-woocommerce",
+    "name": "kokiddp/sage-woocommerce",
     "description": "WooCommerce integration for Sage 9",
     "type": "library",
     "license": "MIT",
